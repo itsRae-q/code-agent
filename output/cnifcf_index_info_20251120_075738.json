@@ -1,0 +1,17 @@
+{
+  "index_name": "国证自由现金流指数",
+  "index_code": "980092",
+  "calculation_date": "2025-11-20 07:57:38",
+  "base_date": "2012-12-31",
+  "base_point": 1000,
+  "sample_size": 100,
+  "index_value": 2802.377171156808,
+  "max_weight_limit": 0.1,
+  "methodology": "基于自由现金流率选样，按自由现金流加权",
+  "data_source": "演示数据（基于真实数据特征生成）",
+  "selection_criteria": {
+    "step1": "剔除成交金额后20%、金融房地产行业、ROE稳定性后10%",
+    "step2": "自由现金流>0、企业价值>0、经营现金流>0、剔除经营现金流比例后30%",
+    "step3": "按自由现金流率排序选取前100只"
+  }
+}
