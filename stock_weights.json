@@ -1,0 +1,92 @@
+[
+  {
+    "code": "600015",
+    "name": "股票15",
+    "industry": "制造",
+    "free_cash_flow": 9848914951.449888,
+    "enterprise_value": 16319144043.86699,
+    "free_cash_flow_rate": 0.603519,
+    "weight": 0.1
+  },
+  {
+    "code": "600008",
+    "name": "股票8",
+    "industry": "医药",
+    "free_cash_flow": 8879987893.899979,
+    "enterprise_value": 20560892386.726414,
+    "free_cash_flow_rate": 0.431887,
+    "weight": 0.1
+  },
+  {
+    "code": "600002",
+    "name": "股票2",
+    "industry": "医药",
+    "free_cash_flow": 577329490.8628082,
+    "enterprise_value": 1375873539.036491,
+    "free_cash_flow_rate": 0.419609,
+    "weight": 0.1
+  },
+  {
+    "code": "600014",
+    "name": "股票14",
+    "industry": "汽车",
+    "free_cash_flow": 6033467038.109391,
+    "enterprise_value": 14494219194.866352,
+    "free_cash_flow_rate": 0.416267,
+    "weight": 0.1
+  },
+  {
+    "code": "600011",
+    "name": "股票11",
+    "industry": "医药",
+    "free_cash_flow": 7113525791.510212,
+    "enterprise_value": 38127289411.3011,
+    "free_cash_flow_rate": 0.186573,
+    "weight": 0.1
+  },
+  {
+    "code": "600009",
+    "name": "股票9",
+    "industry": "化工",
+    "free_cash_flow": 1827253165.889485,
+    "enterprise_value": 12344853114.781443,
+    "free_cash_flow_rate": 0.148017,
+    "weight": 0.1
+  },
+  {
+    "code": "600003",
+    "name": "股票3",
+    "industry": "电子",
+    "free_cash_flow": 2591519275.6713867,
+    "enterprise_value": 18237172373.85175,
+    "free_cash_flow_rate": 0.142101,
+    "weight": 0.1
+  },
+  {
+    "code": "600010",
+    "name": "股票10",
+    "industry": "制造",
+    "free_cash_flow": 1723032173.0533693,
+    "enterprise_value": 23476463216.60127,
+    "free_cash_flow_rate": 0.073394,
+    "weight": 0.1
+  },
+  {
+    "code": "600007",
+    "name": "股票7",
+    "industry": "化工",
+    "free_cash_flow": 1436978565.6541197,
+    "enterprise_value": 46194223746.07592,
+    "free_cash_flow_rate": 0.031107,
+    "weight": 0.1
+  },
+  {
+    "code": "600001",
+    "name": "股票1",
+    "industry": "电子",
+    "free_cash_flow": 616737786.8105474,
+    "enterprise_value": 27894276873.37029,
+    "free_cash_flow_rate": 0.02211,
+    "weight": 0.1
+  }
+]
