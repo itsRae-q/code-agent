@@ -1,0 +1,117 @@
+{
+  "calculation_date": "2025-11-20 01:40:13",
+  "total_stocks": 10,
+  "total_weight": 100.0,
+  "holdings": [
+    {
+      "code": "0000008",
+      "name": "股票8",
+      "price": 12.11,
+      "shares": 62180.0,
+      "market_value": 752999.8,
+      "free_cash_flow": 49664.0,
+      "initial_weight": 18.0825,
+      "weight": 13.1327,
+      "industry": "制造"
+    },
+    {
+      "code": "0000011",
+      "name": "股票11",
+      "price": 40.94,
+      "shares": 63787.0,
+      "market_value": 2611439.78,
+      "free_cash_flow": 49515.0,
+      "initial_weight": 18.0283,
+      "weight": 13.1327,
+      "industry": "能源"
+    },
+    {
+      "code": "0000009",
+      "name": "股票9",
+      "price": 95.33,
+      "shares": 52064.0,
+      "market_value": 4963261.12,
+      "free_cash_flow": 48732.0,
+      "initial_weight": 17.7432,
+      "weight": 13.1327,
+      "industry": "医药"
+    },
+    {
+      "code": "0000002",
+      "name": "股票2",
+      "price": 23.25,
+      "shares": 83569.0,
+      "market_value": 1942979.25,
+      "free_cash_flow": 27145.0,
+      "initial_weight": 9.8834,
+      "weight": 12.9795,
+      "industry": "消费"
+    },
+    {
+      "code": "0000006",
+      "name": "股票6",
+      "price": 62.34,
+      "shares": 68778.0,
+      "market_value": 4287620.52,
+      "free_cash_flow": 26579.0,
+      "initial_weight": 9.6773,
+      "weight": 12.7089,
+      "industry": "科技"
+    },
+    {
+      "code": "0000001",
+      "name": "股票1",
+      "price": 56.94,
+      "shares": 82761.0,
+      "market_value": 4712411.34,
+      "free_cash_flow": 23253.0,
+      "initial_weight": 8.4664,
+      "weight": 11.1186,
+      "industry": "制造"
+    },
+    {
+      "code": "0000012",
+      "name": "股票12",
+      "price": 31.12,
+      "shares": 15342.0,
+      "market_value": 477443.04,
+      "free_cash_flow": 14033.0,
+      "initial_weight": 5.1094,
+      "weight": 6.71,
+      "industry": "科技"
+    },
+    {
+      "code": "0000013",
+      "name": "股票13",
+      "price": 79.11,
+      "shares": 44485.0,
+      "market_value": 3519208.35,
+      "free_cash_flow": 13603.0,
+      "initial_weight": 4.9528,
+      "weight": 6.5043,
+      "industry": "制造"
+    },
+    {
+      "code": "0000014",
+      "name": "股票14",
+      "price": 54.54,
+      "shares": 55000.0,
+      "market_value": 2999700.0,
+      "free_cash_flow": 12389.0,
+      "initial_weight": 4.5108,
+      "weight": 5.9239,
+      "industry": "科技"
+    },
+    {
+      "code": "0000003",
+      "name": "股票3",
+      "price": 79.89,
+      "shares": 69136.0,
+      "market_value": 5523275.04,
+      "free_cash_flow": 9739.0,
+      "initial_weight": 3.5459,
+      "weight": 4.6567,
+      "industry": "科技"
+    }
+  ]
+}
